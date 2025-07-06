@@ -1,4 +1,4 @@
-Nopixel Hunting Converted and improved by Djimbou - https://github.com/djimbou92
+Nopixel Hunting Converted to qb-core and improved by Djimbou - https://github.com/djimbou92
 
 
 add this to your qb-core item.lua and image to your qb-inventory
